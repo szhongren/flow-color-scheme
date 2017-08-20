@@ -4,7 +4,7 @@
     "contrastBorder": "#222222",
     "focusBorder": "#222222",
     "foreground": "#4f7d9d",
-    "widget.shadow": "#111111",
+    "widget.shadow": "#000000",
     "selection.background": "#222222",
     "errorForeground": "#4f7d9d",
 
@@ -29,7 +29,7 @@
     "inputValidation.warningBackground": "#222222",
     "inputValidation.warningBorder": "#222222",
 
-    "scrollbar.shadow": "#111111",
+    "scrollbar.shadow": "#000000",
     "scrollbarSlider.activeBackground": "#222222",
     "scrollbarSlider.background": "#222222",
     "scrollbarSlider.hoverBackground": "#222222",
@@ -59,7 +59,7 @@
 
     "sideBar.background": "#222222",
     "sideBar.foreground": "#4f7d9d",
-    "sideBar.border": "#222222",
+    "sideBar.border": "#111111",
     "sideBarTitle.foreground": "#4f7d9d",
     "sideBarSectionHeader.background": "#222222",
     "sideBarSectionHeader.foreground": "#4f7d9d",
@@ -154,13 +154,13 @@
     "merge.incomingContentBackground": "#222222",
     "merge.border": "#222222",
 
-    "editorOverviewRuler.currentContentForeground": "#4f7d9d",
-    "editorOverviewRuler.incomingContentForeground": "#4f7d9d",
+    "editorOverviewRuler.currentContentForeground": "#ffd7a3",
+    "editorOverviewRuler.incomingContentForeground": "#ffaea3",
 
     "panel.background": "#222222",
-    "panel.border": "#222222",
-    "panelTitle.activeBorder": "#222222",
-    "panelTitle.activeForeground": "#4f7d9d",
+    "panel.border": "#111111",
+    // "panelTitle.activeBorder": "#00ff00",
+    "panelTitle.activeForeground": "#dddddd",
     "panelTitle.inactiveForeground": "#4f7d9d",
 
     // "statusBar.background": "#222222",
@@ -182,19 +182,19 @@
     // "titleBar.inactiveBackground": "#222222",
     // "titleBar.inactiveForeground": "#4f7d9d",
 
-    "notification.background": "#333333",
-    "notification.foreground": "#7fa5bf",
+    "notification.background": "#111111",
+    "notification.foreground": "#dddddd",
     "notification.buttonBackground": "#0d3b5c",
     "notification.buttonHoverBackground": "#1e5074",
-    "notification.buttonForeground": "#ffffff",
+    "notification.buttonForeground": "#dddddd",
     "notification.infoBackground": "#1e5074",
-    "notification.infoForeground": "#ffffff",
+    "notification.infoForeground": "#dddddd",
     "notification.warningBackground": "#b57726",
-    "notification.warningForeground": "#ffffff",
+    "notification.warningForeground": "#dddddd",
     "notification.errorBackground": "#b53726",
-    "notification.errorForeground": "#ffffff",
+    "notification.errorForeground": "#dddddd",
 
-    "extensionButton.prominentForeground": "#ffffff",
+    "extensionButton.prominentForeground": "#dddddd",
     "extensionButton.prominentBackground": "#096b23",
     "extensionButton.prominentHoverBackground": "#1d8739",
 
