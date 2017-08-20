@@ -1,0 +1,22 @@
+{
+    "name": "flow",
+    "displayName": "flow",
+    "description": "Focus on things done in code.",
+    "version": "0.0.1",
+    "publisher": "shao",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "flow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/flow-color-theme.json"
+            }
+        ]
+    }
+}
