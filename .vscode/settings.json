@@ -152,7 +152,7 @@
     "merge.currentContentBackground": "#222222",
     "merge.incomingHeaderBackground": "#222222",
     "merge.incomingContentBackground": "#222222",
-    "merge.border": "#222222",
+    "merge.border": "#333333",
 
     "editorOverviewRuler.currentContentForeground": "#ffd7a3",
     "editorOverviewRuler.incomingContentForeground": "#ffaea3",
